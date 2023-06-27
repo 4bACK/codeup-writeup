@@ -3,6 +3,5 @@
 # 풀이 날짜: 2023-06-04
 
 # code
-
 print("Hello")
 print("World")
